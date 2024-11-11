@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "Which of the following is not a programming language?",
+        option1: "Python",
+        option2: "JavaScript",
+        option3: "HTML",
+        option4: "Ruby",
+        ans: 3,
+    },
+    {
+        question: "Who is known as the father of computer science?",
+        option1: "Alan Turing",
+        option2: "Charles Babbage",
+        option3: "Ada Lovelace",
+        option4: "John von Neumann",
+        ans: 2,
+    },
+    {
+        question: "What is the main component of a computer's central processing unit (CPU)?",
+        option1: "ALU (Arithmetic Logic Unit)",
+        option2: "Memory",
+        option3: "Hard Disk",
+        option4: "Monitor",
+        ans: 1,
+    },
+    {
+        question: "Which HTML tag is used to create a hyperlink?",
+        option1: "<link>",
+        option2: "<a>",
+        option3: "<href>",
+        option4: "<src>",
+        ans: 2,
+    },
+    {
+        question: "Which company developed the programming language Java?",
+        option1: "Microsoft",
+        option2: "Apple",
+        option3: "Sun Microsystems",
+        option4: "Google",
+        ans: 3,
+    },
+]
